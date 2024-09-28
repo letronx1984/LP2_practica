@@ -1,2 +1,2 @@
 # LP2_practica
-primer repositorio en GitHub
+segundo repositorio en GitHub
